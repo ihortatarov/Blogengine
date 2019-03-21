@@ -1,0 +1,6 @@
+C:\Users\itatarov\Desktop\net20_blogengine_src\blogengine\BlogEngine.Core\bin\Debug\BlogEngine.Core.XML
+C:\Users\itatarov\Desktop\net20_blogengine_src\blogengine\BlogEngine.Core\bin\Debug\BlogEngine.Core.dll
+C:\Users\itatarov\Desktop\net20_blogengine_src\blogengine\BlogEngine.Core\bin\Debug\BlogEngine.Core.pdb
+C:\Users\itatarov\Desktop\net20_blogengine_src\blogengine\BlogEngine.Core\obj\Debug\BlogEngine.Core.csprojResolveAssemblyReference.cache
+C:\Users\itatarov\Desktop\net20_blogengine_src\blogengine\BlogEngine.Core\obj\Debug\BlogEngine.Core.dll
+C:\Users\itatarov\Desktop\net20_blogengine_src\blogengine\BlogEngine.Core\obj\Debug\BlogEngine.Core.pdb
